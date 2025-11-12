@@ -1,7 +1,7 @@
 # Tienda-videojuegos
 # Análisis de Datos - Proyecto TripleTen
 
-Este proyecto analiza [tema del proyecto] utilizando Python, pandas, matplotlib y otras herramientas de análisis.
+Este proyecto analiza una base de datos de una tienda virtual utilizando Python, pandas, matplotlib y otras herramientas de análisis.
 
 ## 📊 Contenido
 - Exploración y limpieza de datos
